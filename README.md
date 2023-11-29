@@ -42,10 +42,10 @@
 ![image](https://github.com/Pandurusomu/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/148988619/7b120e39-5934-4868-aebd-52997326ce8e)
 ![image](https://github.com/Pandurusomu/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/148988619/78173add-4c3d-4c30-9fdb-8e9fef778d8b)
 ![image](https://github.com/Pandurusomu/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/148988619/142f1e57-7272-4eac-abaa-ee2f46fbe617)
-![image](https://github.com/Pandurusomu/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/148988619/36e4d3dd-7e80-4ff7-99cf-a03bb4785b3e)
 
 
 ## Output:
+![image](https://github.com/Pandurusomu/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/148988619/36e4d3dd-7e80-4ff7-99cf-a03bb4785b3e)
 
 ### Name:Panduru Somu
 ### Register Number:23005083
